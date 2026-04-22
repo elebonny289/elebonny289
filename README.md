@@ -5,19 +5,18 @@ I'm particularly interested in understanding how the immune microenvironment sha
 
 ## 🔬 Research Interests
 Tumour immunology & the myeloid compartment
+
 Single-cell and spatial transcriptomics
+
 Innate immune cell heterogeneity
-Tissue engineering & biocompatibility
 
 ## 🛠️ Skills & Tools
-Single-cell RNA-seq
-Seurat · Harmony · escape (ssGSEA) · clusterProfiler
-QC, batch correction, clustering, cell type annotation
-Pseudobulk differential expression (DESeq2)
-Gene Ontology & Reactome pathway enrichment
-Spatial Transcriptomics
-10x Visium data processing and visualisation
-Spatial gene expression mapping
+Single-cell RNA-seq packeges: Seurat · Harmony · escape (ssGSEA) · clusterProfiler · Pseudobulk differential expression (DESeq2) 
+
+Spatial Transcriptomics: 10x Visium data processing and visualisation
+
+Deconvolution and integration data from scRNAseq:  SPOTlight · STRIDE · 
+
 Languages & Environments
 R · ggplot2 · tidyverse
 RStudio · Git / GitHub
