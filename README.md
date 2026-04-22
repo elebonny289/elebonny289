@@ -22,9 +22,6 @@ Languages & Environments
 R · ggplot2 · tidyverse
 RStudio · Git / GitHub
 
-## 📂 Projects
-Repository	Description
-CCRL2-APC-scRNAseq	scRNA-seq analysis of antigen-presenting cells in a mouse lung tumour model (CCRL2 WT vs KO)
 
 ## 📫 Get in touch
 📧 eleonora.bonanni@uniroma1.it
